@@ -1,0 +1,3 @@
+[submodule "multirepo"]
+	path = multirepo
+	url = ./../multirepo
